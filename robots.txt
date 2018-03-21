@@ -1,15 +1,2 @@
 User-agent: *
-Disallow: /pdf/
-Disallow: /pdfs/
-Disallow: study2.pdf
-Disallow: /blog/
-Disallow: /test/
-Disallow: /assets/
-Disallow: /cv/
-
-
-Disallow: study3.pdf
-Disallow: study4.pdf
-Disallow: strata3-slide1.html
-Disallow: strata3-slide2.html
-Disallow: strata3-slide3.html
+Disallow: /cgi-bin
