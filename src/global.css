@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --noto-sans-bold-24: "Noto Sans";
+  --font-open-sans: "Open Sans";
+  --body-text: Roboto;
+
+  /* font sizes */
+  --font-size-2xl: 1.31rem;
+  --noto-sans-bold-24-size: 1.5rem;
+  --noto-sans-16-size: 1rem;
+  --body-text-size: 0.94rem;
+  --font-size-smi: 0.81rem;
+  --font-size-lg: 1.13rem;
+  --font-size-sm: 0.88rem;
+  --font-size-xl: 1.25rem;
+  --font-size-13xl: 2rem;
+
+  /* Colors */
+  --surface-white: #fff;
+  --color-royalblue: #2e7cf6;
+  --surface-dark: #d3d3d3;
+  --color-lightgray-100: #cecece;
+  --light-text: #969089;
+  --neutral-light: #83817f;
+  --color-gray-100: rgba(0, 0, 0, 0.3);
+  --toolsense-bold-links: #f69320;
+  --primary-dark: #e1802d;
+  --body-headline: #484037;
+  --neutral-dark: #333231;
+  --surface-background: #f3f1f0;
+  --emphasis-background: #eeebe7;
+  --box-stroke: #cec5b8;
+  --green-default: #688d68;
+  --status-delete: #ef422a;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xs: 0.75rem;
+  --gap-5xs: 0.5rem;
+  --gap-9xs: 0.25rem;
+  --gap-xl: 1.25rem;
+  --gap-6xs: 0.44rem;
+  --gap-8xl: 1.69rem;
+  --gap-17xs-4: -0.28rem;
+  --gap-mini: 0.94rem;
+
+  /* Paddings */
+  --padding-base: 1rem;
+  --padding-4xs: 0.56rem;
+  --padding-xl: 1.25rem;
+  --padding-xs: 0.75rem;
+  --padding-5xs: 0.5rem;
+  --padding-12xs: 0.06rem;
+  --padding-2xs: 0.69rem;
+  --padding-smi: 0.81rem;
+  --padding-mid: 1.06rem;
+
+  /* Border radiuses */
+  --br-50xl: 69px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+
+  /* Effects */
+  --dropshadow-board: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  --primary-button-shadow: -1.5px 1.5px 3px rgba(200, 146, 85, 0.7);
+  --dropshadow-dropdown: 0px 1px 8px rgba(0, 0, 0, 0.12);
+}
